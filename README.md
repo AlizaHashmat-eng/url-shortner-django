@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # URL Shortener
 
 [![Build Status](https://travis-ci.org/smtchahal/url-shortener.svg?branch=master)](https://travis-ci.org/smtchahal/url-shortener)
@@ -8,3 +9,6 @@
 A simple Django-based URL shortening web app.
 
 <img src="http://i.imgur.com/rDkOd8e.png" alt="URL Shortener Screenshot" />
+=======
+# url-shortner-django.
+>>>>>>> 252decbbfda9c74f58debd9f9662b01d2a3807ad
